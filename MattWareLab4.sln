@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MattWareLab4", "MattWareLab4\MattWareLab4.vbproj", "{338EEE9A-EA5A-4BF2-9F67-59A1F0B1339B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338EEE9A-EA5A-4BF2-9F67-59A1F0B1339B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338EEE9A-EA5A-4BF2-9F67-59A1F0B1339B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338EEE9A-EA5A-4BF2-9F67-59A1F0B1339B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338EEE9A-EA5A-4BF2-9F67-59A1F0B1339B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A43ED001-3B78-407A-AE39-8441FD8229D8}
+	EndGlobalSection
+EndGlobal
